@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EduFinderWebsite/static/css/main.fae42789.chunk.css",
+    "main.js": "/EduFinderWebsite/static/js/main.68d80d76.chunk.js",
+    "main.js.map": "/EduFinderWebsite/static/js/main.68d80d76.chunk.js.map",
+    "runtime-main.js": "/EduFinderWebsite/static/js/runtime-main.a564a22d.js",
+    "runtime-main.js.map": "/EduFinderWebsite/static/js/runtime-main.a564a22d.js.map",
+    "static/js/2.14837cd5.chunk.js": "/EduFinderWebsite/static/js/2.14837cd5.chunk.js",
+    "static/js/2.14837cd5.chunk.js.map": "/EduFinderWebsite/static/js/2.14837cd5.chunk.js.map",
+    "static/js/3.ca2cd366.chunk.js": "/EduFinderWebsite/static/js/3.ca2cd366.chunk.js",
+    "static/js/3.ca2cd366.chunk.js.map": "/EduFinderWebsite/static/js/3.ca2cd366.chunk.js.map",
+    "index.html": "/EduFinderWebsite/index.html",
+    "static/css/main.fae42789.chunk.css.map": "/EduFinderWebsite/static/css/main.fae42789.chunk.css.map",
+    "static/js/2.14837cd5.chunk.js.LICENSE.txt": "/EduFinderWebsite/static/js/2.14837cd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a564a22d.js",
+    "static/js/2.14837cd5.chunk.js",
+    "static/css/main.fae42789.chunk.css",
+    "static/js/main.68d80d76.chunk.js"
+  ]
+}
