@@ -1,0 +1,52 @@
+[
+    {
+        "uid": 860505,
+        "url": "https://www.profellow.com/deadlines/upcoming-fellowship-deadlines-march-1-7-2020/",
+        "text": "Funding comes from a mixture of scholarships, fellowships, studentships and grants. Minimum aid for PhD students includes full tuition and a stipend of $14,000 per year. Due March 1, 2020 Joan Shorenstein Fellowship : The mission of the Joan Shorenstein Fellowship Program is to advance research in the field of media, politics and public policy, provide an opportunity for reflection, and create a vibrant and longlasting community of scholars and practitioners. The primary focus for a Fellow is to research, write and publish a 1520page paper on a mediapolitics topic. The Shorenstein Center currently hosts 8 onesemester residential fellowships each year (4 per semester). Stipend is $30,000 for one semester. Fellows are in residence, fulltime, for one semester. Mid to latecareer fulltime journalists, politicians, scholars or policymakers are eligible. March 1, 2020 Jon B. Lovelace Fellowship for the Study of the Alan Lomax Collection : The John W. Kluge Center at the Library of Congress invites qualified scholars to apply for a postdoctoral fellowship for advanced research based on the Alan Lomax Collection.",
+        "money": [
+            "$ 14,000",
+            "$ 30,000"
+        ],
+        "location": "None",
+        "dummy1": "{'Library of Congress', 'Alan Lomax Collection', 'Shorenstein Center'}",
+        "dummy2": "{'Joan Shorenstein', 'Jon B. Lovelace', 'John W. Kluge Center', 'Alan Lomax'}",
+        "time": "2020-03-23 17:58:46"
+    },
+    {
+        "uid": 63910,
+        "url": "https://international.ucr.edu/abroad/financial",
+        "text": "This resource features detailed descriptions of hundreds of education abroad scholarships, fellowships, grants, and paid internships for U.S. undergraduate, graduate and postgraduate students, and professionals. IIE Generation Study Abroad Travel Grant is an annual grant hosted by the Institute of International Education. In the past, IIE has awarded grants to 100 students of $2,000 per student. International Affairs Education Abroad Summer Program Scholarship Fund is a meritbased scholarship opportunity for undergraduate and graduate students from the University of California, Riverside campus enrolled in a Faculty Led (FLEAP) Education Abroad Program. Individual scholarships up to $1,000 will be awarded to students enrolled in one of the 2019 Faculty Led Education Abroad Programs. Steven MandevilleGamble Scholarship This scholarship is to support Anthropology students participating on the UC Education Abroad Program (UCEAP), Opportunities Abroad Program (OAP) and Faculty Led Education Abroad Program (FLEAP). Please submit completed applications to Skye Hall 321. StudyAbroad.com Choose from scholarships awarded based on merit, diversity factors, your destination, your program or the subject you will study.",
+        "money": [
+            "$ 2,000",
+            "$ 1,000"
+        ],
+        "location": "{'U.S.', 'Riverside'}",
+        "dummy1": "{'International Affairs Education Abroad Summer', 'UC Education Abroad Program', 'the University of California', 'Institute of International Education', 'IIE', 'Skye Hall', 'IIE Generation Study Abroad Travel Grant'}",
+        "dummy2": "{'Steven MandevilleGamble'}",
+        "time": "2020-03-23 17:58:46"
+    },
+    {
+        "uid": 56085,
+        "url": "https://admissions.ucr.edu/out-of-state",
+        "text": "92% of UCR undergraduates receive some form of financial aid. 76% of students financial aid need was met with needbased aid. (Financial Aid Office, 2018 19) Additional Aid NonResident Achievement Scholarship Nonresidentoutofstate freshman and transfer students are automatically considered for the NonResident Achievement Scholarship with their acceptance to UCR. No additional forms, paperwork, or applications are required to receive the scholarship. Topachieving students can receive up to $4,500 each quarter. go.ucr.edunrscholarship UC Riverside Foundation Scholarships The UC Riverside Foundation offers scholarships, fellowships, internships, prizes, awards, and loans to qualifying UCR students. Use the online database to search for aid based on your college, major, financial need, career goals, and more. scholarships.ucr.edu WorkStudy Eligible students can earn money for school through an approved on or off campus workstudy job. Funds can only be used during the academic year, and you must meet financial need, academic, and other requirements to maintain your eligibility.",
+        "money": [
+            "$ 4,500"
+        ],
+        "location": "None",
+        "dummy1": "{'WorkStudy Eligible', 'UC Riverside Foundation Scholarships The UC Riverside Foundation', 'Financial Aid Office', 'UCR'}",
+        "dummy2": "None",
+        "time": "2020-03-23 17:58:46"
+    },
+    {
+        "uid": 56091,
+        "url": "https://admissions.ucr.edu/international",
+        "text": "Expenses associated with living in Riverside are considerably less than those of nearby metropolitan areas, such as Los Angeles, Orange County, and San Diego. Read on to learn more about the programs available to help you pay for your UCR degree and how much that degree costs. Financial Aid Grants, scholarships, and other awards are available to qualified students to help cover some of the cost of attending UCR, including the following: NonResident Achievement Scholarship Admitted international freshman and transfer students are automatically considered for the NonResident Achievement Scholarship with their acceptance to UCR. No additional forms, paperwork, or applications are required to receive the scholarship. Topachieving students can receive up to $4,500 each quarter. go.ucr.edunrscholarship UC Riverside Foundation Scholarships The UC Riverside Foundation offers scholarships, fellowships, internships, prizes, awards, and loans to qualifying UCR students. Use the online database to search for aid based on your college, major, financial need, career goals, and more.",
+        "money": [
+            "$ 4,500"
+        ],
+        "location": "{'Orange County', 'Los Angeles', 'Riverside', 'San Diego'}",
+        "dummy1": "{'UCR', 'UC Riverside Foundation Scholarships The UC Riverside Foundation'}",
+        "dummy2": "None",
+        "time": "2020-03-23 17:58:46"
+    }
+]
